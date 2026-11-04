@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+nf01,Spine Cell,pack-local equal-tempered pitch collection,D,172,4/4,480,32,61440,midi/nf01-spine-cell/nf01-spine-cell-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+nf02,Wire Bass,pack-local equal-tempered pitch collection,F,172,4/4,480,32,61440,midi/nf02-wire-bass/nf02-wire-bass-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+nf03,Fast Shadow,pack-local equal-tempered pitch collection,G#,172,4/4,480,32,61440,midi/nf03-fast-shadow/nf03-fast-shadow-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+nf04,Cut Return,pack-local equal-tempered pitch collection,D#,172,4/4,480,32,61440,midi/nf04-cut-return/nf04-cut-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

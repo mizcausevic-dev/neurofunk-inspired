@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/neurofunk-inspired-simple-synth-preview.mp3",
+  "preview_sha256": "da1b9a32aabbb3dd9686143053b16a5daa68fa8f1a14b96711b61acc51b9d17d",
+  "source_midi_path": "midi/nf01-spine-cell/nf01-spine-cell-combined.mid",
+  "source_midi_sha256": "a157ee1b323ca537185d5ab1f4785c6ca6f5127174129d996c553cbc76eebe1f",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "nf01",
+    "start_seconds": 0,
+    "end_seconds": 44.651
+  },
+  "measurement": {
+    "sample_peak": 0.135541,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
