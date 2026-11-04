@@ -1,0 +1,26 @@
+{
+  "title": "Neurofunk-Inspired",
+  "study": "nf01",
+  "bpm": 172,
+  "source_audio": "preview/neurofunk-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "da1b9a32aabbb3dd9686143053b16a5daa68fa8f1a14b96711b61acc51b9d17d",
+  "source_midi": "midi/nf01-spine-cell/nf01-spine-cell-combined.mid",
+  "source_midi_sha256": "a157ee1b323ca537185d5ab1f4785c6ca6f5127174129d996c553cbc76eebe1f",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "a2da22c71dc21e0395ff06d14695f5e2c35fa1684e86eda493464c9727d8de28",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "fdc1711672af0ca4f8aedfbb3bcf13cc623780ec828f119457912a66f69b8340",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "1200202e8d20034ad0db3e03e7a34eb226c2aa0cf906915c9efd391cdc744927",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
